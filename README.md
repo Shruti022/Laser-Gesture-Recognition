@@ -7,3 +7,7 @@ With digital projectors becoming more affordable the use of Microsoft PowerPoint
 4. To help the visually impaired to interact with presentations without any hesitation.
 
 Developed by Shreya Shetty, Shruti Shetty and Shraddha Thaker as part of Mini Project II at Sardar Patel Institute of Technology in Spring 2022.
+
+The Laser Gesture Recognition application developed is able to manipulate the slides of powerpoint presentation according to the gesture performed using laser. The application is able to play and change the songs of the media player by playing and pausing the current song or moving to next or previous song according to the gesture performed using laser
+
+
